@@ -1,3 +1,0 @@
-This is Test3.txt  file 
-This is an example file
-Thank you
